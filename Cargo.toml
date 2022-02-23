@@ -1,0 +1,8 @@
+[package]
+name = "pi_listener"
+version = "0.1.0"
+authors = ["zmythleo <zmythleo@gmail.com>"]
+
+[dependencies]
+im = "13.0.0"
+pi_share = { path = "../pi_share" }
