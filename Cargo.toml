@@ -1,8 +1,13 @@
 [package]
 name = "pi_listener"
 version = "0.1.0"
-authors = ["zmythleo <zmythleo@gmail.com>"]
+authors = ["suncy <530739162@qq.com>"]
+edition = "2021"
+description = "listners"
+repository = "https://github.com/GaiaWorld/pi_listener.git"
+license = "MIT OR Apache-2.0"
+keywords = ["pi", "listener", "pi_listener"]
 
 [dependencies]
 im = "13.0.0"
-pi_share = { path = "../pi_share" }
+pi_share = "0.1"
