@@ -1,6 +1,6 @@
 [package]
 name = "pi_listener"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["suncy <530739162@qq.com>"]
 edition = "2021"
 description = "listners"
@@ -10,4 +10,4 @@ keywords = ["pi", "listener", "pi_listener"]
 
 [dependencies]
 im = "13.0.0"
-pi_share = "0.1"
+pi_share = "0.4"
